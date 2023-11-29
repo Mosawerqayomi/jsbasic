@@ -35,7 +35,7 @@ if (user == "ronaldo") {
  
 user = "ronaldo";
 if (USER == "ronaldo") {
-    console.log('you are ' + );
+    console.log('you are ' + user);
 } else {
     console.error("denied")
 }
