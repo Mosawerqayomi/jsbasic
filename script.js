@@ -71,6 +71,8 @@ if (myAge < jrop) {
     console.log("you're to young to drive")
 }
 
+
+
 }
 checkAge(6);
 checkAge(17);
